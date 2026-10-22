@@ -1,0 +1,4 @@
+﻿interface IWorkable
+{
+    void Work();
+}
